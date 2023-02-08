@@ -32,6 +32,10 @@ i {
 img{
     max-width: 100%;
 }
+
+h3 {
+margin-top: 1rem;
+}
 /* #endregion common rules */
 
 
@@ -146,3 +150,17 @@ img{
 
 /* #endregion main */
 
+
+/* #region footer */
+#app-footer {
+    background-color: var(--bz-footer);
+    color: white;
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+    bottom: 0;
+}
+ #app-footer a {
+    font-size: 0.7rem;
+ }
+/* #endregion footer */
