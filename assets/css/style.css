@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* #region COLOR PALETTE */
+:root {
+    --bz-header: #ff6900;
+    --bz-discount: #ff0000;
+    --bz-sustainability: #008000;
+    --bz-footer: #1a1a1a;
+}
+
+/* #region COLOR PALETTE */
